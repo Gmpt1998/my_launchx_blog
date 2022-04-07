@@ -12,4 +12,6 @@ Mis expectativas para este proyecto son:
 - Poner en practica mis conocimientos adquiridos en la seccion de front-end.
 - Aprender back-end y poner en practica lo aprendido con distintos ejercicios y diseño de apps.
 - Seguir practicando con Git y Github.
+
+
 🚀
